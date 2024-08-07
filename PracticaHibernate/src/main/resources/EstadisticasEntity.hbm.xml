@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="org.example.entidades.EstadisticasEntity" table="estadisticas" schema="nba">
+        <composite-id mapped="true" class="org.example.entidades.EstadisticasEntityPK">
+            <key-property name="temporada" column="temporada"/>
+            <key-property name="jugador" column="jugador"/>
+        </composite-id>
+        <property name="puntosPorPartido" column="Puntos_por_partido"/>
+        <property name="asistenciasPorPartido" column="Asistencias_por_partido"/>
+        <property name="taponesPorPartido" column="Tapones_por_partido"/>
+        <property name="rebotesPorPartido" column="Rebotes_por_partido"/>
+    </class>
+</hibernate-mapping>

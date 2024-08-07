@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="org.example.entidades.JugadoresEntity" table="jugadores" schema="nba">
+        <id name="codigo" column="codigo"/>
+        <property name="nombre" column="Nombre"/>
+        <property name="procedencia" column="Procedencia"/>
+        <property name="altura" column="Altura"/>
+        <property name="peso" column="Peso"/>
+        <property name="posicion" column="Posicion"/>
+        <property name="nombreEquipo" column="Nombre_equipo"/>
+    </class>
+</hibernate-mapping>

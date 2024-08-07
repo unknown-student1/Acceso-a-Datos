@@ -1,0 +1,64 @@
+{
+  "CatalogoPeliculas": {
+    "Pelicula": [
+      {
+        "Duracion": 136,
+        "Fecha": 1999,
+        "Genero": "Drama",
+        "Actores": {
+          "Actor": [
+            "Clint Eastwood",
+            "Geraldine Hughes",
+            "John Carroll Lynch"
+          ]
+        },
+        "Director": "WachowskiBrothers",
+        "Titulo": "Gran Torino",
+        "sinopsis": "Vecinos inmigrantes obligan a un veterano a enfrentarse a los prejuicios de mucho tiempo."
+      },
+      {
+        "Duracion": 136,
+        "Fecha": 1999,
+        "Genero": "Sci-Fi and Fantasy",
+        "Actores": {
+          "Actor": [
+            "KeanuReeves",
+            "Laurence Fishburne",
+            "Carrie Ann Moss"
+          ]
+        },
+        "Director": "WachowskiBrothers",
+        "Titulo": "TheMatrix",
+        "sinopsis": "Un experto en computadoras descubre que su mundo es una simulación total creada con maliciosas\r\n            intenciones por parte de la ciberinteligencia."
+      },
+      {
+        "Duracion": 194,
+        "Fecha": 1999,
+        "Genero": "Drama",
+        "Actores": {
+          "Actor": [
+            "Leonardo DiCaprio",
+            "Kate Winslet"
+          ]
+        },
+        "Director": "James Cameron",
+        "Titulo": "Titanic",
+        "sinopsis": "Una joven de la alta sociedad abandona a su arrogante pretendiente por un artista humilde en el\r\n            trasatlántico que se hundió durante su viaje inaugural."
+      },
+      {
+        "Duracion": 106,
+        "Fecha": 1999,
+        "Genero": "Thriller",
+        "Actores": {
+          "Actor": [
+            "Bruce Willis",
+            "Haley Joel Osment"
+          ]
+        },
+        "Director": "M. NightShyamalan",
+        "Titulo": "TheSixthSense",
+        "sinopsis": "Malcolm Crowe es un psicólogo infantil que vive obsesionado por el recuerdo de un joven al que fue\r\n            incapaz de ayudar. Cuando conoce a Cole, un aterrorizado y confuso niño de ocho años, se le presenta la\r\n            oportunidad de redimirse haciendo todo lo posible por ayudarlo. Sin embargo, el doctor no está preparado\r\n            para descubrir la terrible verdad sobre el chico: recibe visitas de espíritus atormentados que lo asustan."
+      }
+    ]
+  }
+}

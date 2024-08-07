@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<concesionario>
+    <vehiculo numero="1">
+        <marca>Yamaha</marca>
+        <modelo>wr</modelo>
+    </vehiculo>
+    <vehiculo numero="2">
+        <marca>Honda</marca>
+        <modelo>cbr</modelo>
+    </vehiculo>
+    <vehiculo numero="3">
+        <marca>KTM</marca>
+        <modelo>sx</modelo>
+    </vehiculo>
+    <vehiculo numero="4">
+        <marca>GasGas</marca>
+        <modelo>ec</modelo>
+    </vehiculo>
+    <vehiculo numero="5">
+        <marca>Suzuki</marca>
+        <modelo>gsx</modelo>
+    </vehiculo>
+    <vehiculo numero="6">
+        <marca>Kawasaki</marca>
+        <modelo>zzr</modelo>
+    </vehiculo>
+	<vehiculo numero="7">
+        <marca>Yamaha</marca>
+        <modelo>xyz</modelo>
+    </vehiculo>
+    <vehiculo numero="8">
+        <marca>Honda</marca>
+        <modelo>cxr</modelo>
+    </vehiculo>
+    
+</concesionario>
